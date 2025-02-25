@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Outfit', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container{
+  background-color: hsl(0, 0%, 100%);
+  height: 556px;
+  width: 350px;
+  border-radius: 16px;
+}
+
+img{
+  width: 320px;
+  height: 320px;
+  border-radius: 13px;
+  margin-top: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+p{
+  font-size: 15px;
+  text-align: center;
+  color: hsl(216, 15%, 48%);
+  margin-top: 23px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 23px;
+}
+
+
+
+/* The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+
+## Colors
+
+- White: hsl(0, 0%, 100%)
+
+- Slate 300: hsl(212, 45%, 89%)
+- Slate 500: hsl(216, 15%, 48%)
+- Slate 900: hsl(218, 44%, 22%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 15px
+
+### Font
+
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 400, 700 */
+
